@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+           <meta charset="UTF-8">
+		   <meta http-equiv="X-UA-Compatible" >
+		   <meta name="viewport" content="width=100">
+		   <title>afif.com</title>
+		   <style>
+		   body
+		    {background-image:url('background-2.jpg');
+             background-size:cover;
+			 background-position:center;
+             background-repeat:no-repeat;}	
+           select
+		        {
+            color:green;
+			    }
+			h1
+ {
+ color:black;
+ }
+ p
+ {
+ color:black;
+ }
+ input
+ {
+ color:green;
+ }
+ 
+		   </style>		   		   		   
+</head>	
+<body>
+             <h1>
+                 afif web
+             </h1>
+             <body>
+			 <p>
+			 
+			 </p>
+			 <hr>
+			 </body>
+            <select name="" id="">	   
+		        <option value="">css</option>  
+				<option value="">html</option>
+				<option value="">python</option>
+				</select>
+				<p>Who are you.?</p>
+				<br>
+		     <form action="">
+		      <input type="radio" name="gender" id=""> </input>
+				  <label for="afif"></label>
+				      <input type="radio" name="gender" id="afif"></input>
+				  <label for="ihssane"></label>	  
+			</form>
+	<a href="python.html">
+</body>
+</html>
